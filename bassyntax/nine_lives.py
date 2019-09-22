@@ -1,10 +1,10 @@
 import random
 
+heart = u'\u2764'
 lives_count = 9
 words = ['pasta', 'mango', 'penna', 'glass', 'fågel']
+clue = ['?', '?', '?', '?', '?']
 secret_word = random.choice(words)
-clue = list('?????')
-heart = u'\u2764'
 guessed_correct = False
 
 def update_clue(guessed_character, secret_word, clue):
