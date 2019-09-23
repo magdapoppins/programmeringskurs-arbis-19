@@ -1,5 +1,7 @@
-kompisar = ['Anna', 'Miro', 'Noa']
+kompisar = ['Lisa', 'Miro', 'Noa']
 
 for kompis in kompisar:
 	print("Hej, " + kompis + "!")
+
+
 
