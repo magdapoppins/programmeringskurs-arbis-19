@@ -25,6 +25,8 @@ Kursplan och material för grundkursen i programmering. Lisens: CC BY-NC.
 5. Skriv en funktion som tar en lista av namn och skriver ut “Hej, “ och namnet för varje namn. Använd en for-loop.
 6. Skapa en dictionary för elever och vitsord. Skriv funktioner för att sortera listan, för att räkna medeltal och för att visa högsta och lägsta vitsord.
 7. Skapa en klass, cat, som beskriver en katt (ålder, namn, färg, favoritgodisar). Låt användaren skapa nya katter genom att mata in data som behövs och visa upp en lista av alla katter vars data har matats in. Använd en while-loop för att hålla programmet igång tills användaren väljer att avsluta. 
+8. Skriv ett program som tar in ett pris innan skatter och lägger till 24% moms.
+9. 
 
 ### 2. Turtle Graphics
 11. Skriv en funktion som ritar en rektangel. Funktionen ska ta in följande parametrar: width, height och color.
@@ -40,10 +42,11 @@ Skriv en funktion som tar en lista (tavla) av färger och skriver ut cirklar av 
 
 ### 4. Små spel
 20. Skriv spelet Sänka skepp i Python.
-21. Hangman
-22. 
+21. Hangman - gissningsspel.
+22. Caesars cipher - skriv ett program som enkodar och dekodar text enligt Caesars cipher.
 
 ### 5. PyGame
+25. Breakout
 
 Deltagarlista: 
 @4lex4ndr45, @andrea2111, @annaknur, @attenka, @LukasWarna, @Jacob1608,
