@@ -24,7 +24,7 @@ Kursplan och material för grundkursen i programmering. Lisens: CC BY-NC.
 4. Skriv ett epost-katalog-program: du ska kunna ange nya epostadresser och söka bland adresserna med namn. Använd en dictionary för att skapa adressboken. Använd en while-loop för att hålla programmet igång tills användaren väljer att avsluta.
 5. Skriv en funktion som tar en lista av namn och skriver ut “Hej, “ och namnet för varje namn. Använd en for-loop.
 6. Skapa en dictionary för elever och vitsord. Skriv funktioner för att sortera listan, för att räkna medeltal och för att visa högsta och lägsta vitsord.
-7. 
+7. Skapa en klass, cat, som beskriver en katt (ålder, namn, färg, favoritgodisar). Låt användaren skapa nya katter genom att mata in data som behövs och visa upp en lista av alla katter vars data har matats in. Använd en while-loop för att hålla programmet igång tills användaren väljer att avsluta. 
 
 ### 2. Turtle Graphics
 11. Skriv en funktion som ritar en rektangel. Funktionen ska ta in följande parametrar: width, height och color.
@@ -35,10 +35,15 @@ Skriv en funktion som tar en lista (tavla) av färger och skriver ut cirklar av 
 15. 
 
 ### 3. Läsa och skriva filer
+16. Skriv ett program som läser vad som finns i en köplista (en `.txt`-fil i samma mapp), skriver ut det och lägger till det som användaren matar in.
+17.
 
 ### 4. Små spel
 20. Skriv spelet Sänka skepp i Python.
-21. 
+21. Hangman
+22. 
+
+### 5. PyGame
 
 Deltagarlista: 
 @4lex4ndr45, @andrea2111, @annaknur, @attenka, @LukasWarna, @Jacob1608,
