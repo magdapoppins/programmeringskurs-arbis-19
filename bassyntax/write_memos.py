@@ -1,6 +1,6 @@
 import os
 
-memo_file_path = "/Users/magdapoppins/Desktop/programmeringskurs-arbis-19/bassyntax/memos.txt"
+memo_file_path = "C:/programmeringskurs/bassyntax/memos.txt"
 
 if os.path.exists(memo_file_path):
     print("Memo file exists.")

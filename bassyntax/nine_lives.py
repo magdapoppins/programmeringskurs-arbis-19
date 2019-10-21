@@ -1,6 +1,6 @@
 import random
 
-heart = u'\u2764'
+heart = u'\u1F496'
 lives_count = 9
 words = ['pasta', 'mango', 'penna', 'glass', 'fågel']
 clue = ['?', '?', '?', '?', '?']
